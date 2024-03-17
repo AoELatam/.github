@@ -1,5 +1,5 @@
 ![Logo de AoELatam](https://raw.githubusercontent.com/AoELatam/AoELatam/main/img/aoelatam/aoelatam.jpg)
-*<small>Logo de AoELatam creado por [@cirdwalker.graphics](https://www.instagram.com/p/CzSB62Vxsa1)</small>*
+*Logo de AoELatam creado por [@cirdwalker.graphics](https://www.instagram.com/p/CzSB62Vxsa1)*
 
 ## Bienvenido 👋
 Somos **AoELatam**, una comunidad creada por varios proyectos para impulsar el crecimiento de los Clanes, Jugadores, Aficionados, Streamers, Casters y Organizadores de torneos de Age of Empires II: Definitive Edition de Latinoamérica.
